@@ -2114,11 +2114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Proj\\ASP\\Micro\\PlatformService\\PlatformService.csproj",
+      "projectUniqueName": "F:\\Proj\\ASP\\PlatformService\\PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "F:\\Proj\\ASP\\Micro\\PlatformService\\PlatformService.csproj",
+      "projectPath": "F:\\Proj\\ASP\\PlatformService\\PlatformService.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "F:\\Proj\\ASP\\Micro\\PlatformService\\obj\\",
+      "outputPath": "F:\\Proj\\ASP\\PlatformService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
